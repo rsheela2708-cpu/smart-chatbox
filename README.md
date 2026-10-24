@@ -1,6 +1,6 @@
-# smart-chatbox
-A simple chatbox aapplication built to practice programming and user interaction 
-# Smart Chatbox 🤖
+# smart-chatbot
+A simple chatbot aapplication built to practice programming and user interaction 
+# Smart Chatbot 🤖
 
 A simple terminal-based AI chatbot application built to practice programming, API integration, and user interaction using Python and Google Gemini.
 
